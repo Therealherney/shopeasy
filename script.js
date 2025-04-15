@@ -66,67 +66,67 @@ const products = [
     },
     {
         id: 9,
-        name: "Running Shoes",
-        category: "clothing",
-        price: 89.99,
-        description: "Lightweight running shoes with cushioned soles.",
-        image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+        name: "Smart TV",
+        category: "electronics",
+        price: 179.99,
+        description: "Flat screen TV.",
+        image: "https://images.unsplash.com/photo-1461151304267-38535e780c79?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
     },
     {
         id: 10,
-        name: "Running Shoes",
-        category: "clothing",
-        price: 89.99,
-        description: "Lightweight running shoes with cushioned soles.",
-        image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+        name: "Stainless Steel Pot",
+        category: "home",
+        price: 17.99,
+        description: "A stainless steel pot with a lid on a black background.",
+        image: "https://images.unsplash.com/photo-1693038603562-bb6191269ecc?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
     },
     {
         id: 11,
-        name: "Running Shoes",
+        name: "T-shirt",
         category: "clothing",
-        price: 89.99,
-        description: "Lightweight running shoes with cushioned soles.",
-        image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+        price: 39.99,
+        description: "Man in black crew nect T-shirt.",
+        image: "https://images.unsplash.com/photo-1627225925683-1da7021732ea?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
     },
     {
         id: 12,
-        name: "Running Shoes",
-        category: "clothing",
-        price: 89.99,
-        description: "Lightweight running shoes with cushioned soles.",
-        image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+        name: "Mouse",
+        category: "electronics",
+        price: 11.99,
+        description: "A black and red computer mouse next to a USB mouse.",
+        image: "https://plus.unsplash.com/premium_photo-1671611822374-4719df5c89bb?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
     },
     {
         id: 13,
-        name: "Running Shoes",
-        category: "clothing",
-        price: 89.99,
-        description: "Lightweight running shoes with cushioned soles.",
-        image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+        name: "Refrigerator",
+        category: "home",
+        price: 169.99,
+        description: "A beverage cooler sitting next to a refrigerator filled with drinks.",
+        image: "https://images.unsplash.com/photo-1583441012423-214b867771d1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
     },
     {
         id: 14,
-        name: "Running Shoes",
-        category: "clothing",
-        price: 89.99,
-        description: "Lightweight running shoes with cushioned soles.",
-        image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+        name: "Sofa",
+        category: "home",
+        price: 63.99,
+        description: "Green fabric sofa.",
+        image: "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
     },
     {
         id: 15,
-        name: "Running Shoes",
-        category: "clothing",
-        price: 89.99,
-        description: "Lightweight running shoes with cushioned soles.",
-        image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+        name: "Playstation 5",
+        category: "electronics",
+        price: 499.99,
+        description: "White playstation 5 console with controller.",
+        image: "https://images.unsplash.com/photo-1635048424329-a9bfb146d7aa?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
     },
     {
         id: 16,
-        name: "Running Shoes",
-        category: "clothing",
-        price: 89.99,
-        description: "Lightweight running shoes with cushioned soles.",
-        image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+        name: "Shoe Rack",
+        category: "home",
+        price: 49.99,
+        description: "Shoe rack with family shoes.",
+        image: "https://images.unsplash.com/photo-1478887011962-709960f8ced8?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
     }
 ];
 
