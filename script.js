@@ -66,12 +66,11 @@ const products = [
     },
     {
         id: 9,
-        name: "Running Shoes",
+        name: "Smart TV",
         category: "clothing",
         price: 89.99,
         description: "Lightweight running shoes with cushioned soles.",
-        image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-    },
+        image: "https://images.unsplash.com/photo-1601944179066-29786cb9d32a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c21hcnQlMjB0dnxlbnwwfHwwfHx8MA%3D%3D"
     {
         id: 10,
         name: "Running Shoes",
